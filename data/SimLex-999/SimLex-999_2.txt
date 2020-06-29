@@ -1,0 +1,13 @@
+word1	word2	SD(SimLex)
+king	queen	0.67
+male	female	1.19
+happy	cheerful	2.18
+hard	easy	0.93
+fast	rapid	1.68
+happy	glad	1.59
+short	long	1.58
+stupid	dumb	1.48
+weird	strange	1.3
+wide	narrow	0.58
+bad	awful	1.74
+easy	difficult	0.36
